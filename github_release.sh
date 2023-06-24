@@ -20,5 +20,4 @@ fi
 
 zip="$1"
 date="$(echo "$zip" | grep -oP '\d{8}')"
-echo "$date"
 gh release create "$device-$date" "$1" --title "$device-$date build" --notes "Please read the changelog at https://download.lineageos.org/devices/$device/changes instead."
