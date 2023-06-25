@@ -102,9 +102,9 @@ if __name__ == "__main__":
             if line.startswith(b"post-timestamp="):
                 DEVICE_DATA["datetime"] = int(line[15:])
 
-    md5 = hashlib.md5(file_content).hexdigest()
+    sha256 = hashlib.sha256(file_content).hexdigest()
 
-    DEVICE_DATA["id"] = md5
+    DEVICE_DATA["id"] = sha256
     DEVICE_DATA["filename"] = filename
     DEVICE_DATA["size"] = size
     DEVICE_DATA["url"] = args.zip_url
