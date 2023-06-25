@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1687610788,
-            "filename": "Kenvyra-13.0-alioth-AMOGUS-20230624-SUSSY.zip",
-            "id": "0d4df06e8a80bd9559d148bde7925ba0",
-            "size": 1178800843,
-            "url": "https://github.com/vyrine/ota/releases/download/alioth-20230624/Kenvyra-13.0-alioth-AMOGUS-20230624-SUSSY.zip",
+            "datetime": 1687652454,
+            "filename": "Kenvyra-13.0-alioth-AMOGUS-20230625-SUSSY.zip",
+            "id": "bbddc6cbf4b770cbb39be0622ec06c3f",
+            "size": 1178774743,
+            "url": "https://github.com/vyrine/ota/releases/download/alioth-20230625/Kenvyra-13.0-alioth-AMOGUS-20230625-SUSSY.zip",
             "version": "13.0"
         }
     ]
