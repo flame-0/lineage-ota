@@ -1,7 +1,6 @@
 #!/bin/env bash
 
-if [ "$#" -ne 1 ]
-then
+if [ "$#" -lt 1 ]; then
     echo "You must provide a zip for a device."
     exit 1
 fi
@@ -18,4 +17,10 @@ if [ -z "$device" ]; then
 fi
 
 zip_date=$(echo "$1" | cut -d'-' -f5)
-gh release create "$device-$zip_date" "$1" --title "$device-$zip_date build" --notes "Please read the changelog at https://download.lineageos.org/devices/$device/changes instead."
+
+for file in "$@"; do
+    sha256sum "$file" | head -c 64 > "$file.sha256sum"
+    gh_args+=("$file" "$file.sha256sum")
+done
+
+gh release create "${device}-${zip_date}" "${gh_args[@]}" --title "${device}-${zip_date} build" --notes "Please read the changelog at https://download.lineageos.org/devices/${device}/changes instead."
