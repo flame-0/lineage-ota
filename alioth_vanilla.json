@@ -1,0 +1,12 @@
+{
+    "response": [
+        {
+            "datetime": 1688789970,
+            "filename": "Kenvyra-13.0-alioth-UNOFFICIAL-20230708-VANILLA.zip",
+            "id": "5fe5f0d8a718e77adb0f440046e368dab8ba84bc37662c9bd8c24cf9a6e07ec5",
+            "size": 1100979503,
+            "url": "https://github.com/vyrine/ota/releases/download/alioth-20230708/Kenvyra-13.0-alioth-UNOFFICIAL-20230708-VANILLA.zip",
+            "version": "13.0"
+        }
+    ]
+}
