@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1689478998,
-            "filename": "Kenvyra-13.0-alioth-UNOFFICIAL-20230716-MICROG.zip",
-            "id": "61704ec83e4b3d6c25ac6905fc14136c7dd0d675515b6266f547f7a4d2142468",
-            "size": 1128478210,
-            "url": "https://github.com/vyrine/ota/releases/download/alioth-20230716/Kenvyra-13.0-alioth-UNOFFICIAL-20230716-MICROG.zip",
+            "datetime": 1690257085,
+            "filename": "Kenvyra-13.0-alioth-UNOFFICIAL-20230725-MICROG.zip",
+            "id": "78e372ee2cefeedfdbedc7e50c6e29caae4514e26c5489094ac21511cfe8b487",
+            "size": 1127877988,
+            "url": "https://github.com/vyrine/ota/releases/download/alioth-20230725/Kenvyra-13.0-alioth-UNOFFICIAL-20230725-MICROG.zip",
             "version": "13.0"
         }
     ]

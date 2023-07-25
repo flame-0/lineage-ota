@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1689495299,
-            "filename": "Kenvyra-13.0-alioth-UNOFFICIAL-20230716-GAPPS.zip",
-            "id": "8d1dfbec884b0394e27575c9ab4dd779f983a285ddd23df7382e075359df4593",
-            "size": 1738370716,
-            "url": "https://github.com/vyrine/ota/releases/download/alioth-20230716/Kenvyra-13.0-alioth-UNOFFICIAL-20230716-GAPPS.zip",
+            "datetime": 1690271096,
+            "filename": "Kenvyra-13.0-alioth-UNOFFICIAL-20230725-GAPPS.zip",
+            "id": "cfbf72f89b20ecbc66aa96e62fa564bc70e0f23f5851b03fcc3df684c49aefea",
+            "size": 1736174794,
+            "url": "https://github.com/vyrine/ota/releases/download/alioth-20230725/Kenvyra-13.0-alioth-UNOFFICIAL-20230725-GAPPS.zip",
             "version": "13.0"
         }
     ]
