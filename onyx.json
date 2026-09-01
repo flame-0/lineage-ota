@@ -1,0 +1,15 @@
+[
+    {
+        "datetime": 1788181422,
+        "files": [
+            {
+                "filename": "lineage-23.2-20260831-amogus-onyx-signed.zip",
+                "sha256": "696efd32d2622a547c047611b6a83b44916c3dfe61dfaab99d08a888be79c734",
+                "size": 3276130494,
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260831/lineage-23.2-20260831-amogus-onyx-signed.zip"
+            }
+        ],
+        "type": "amogus",
+        "version": "23.2"
+    }
+]

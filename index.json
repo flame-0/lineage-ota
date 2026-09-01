@@ -1,0 +1,46 @@
+[
+    {
+        "device": "onyx",
+        "date": "20260831",
+        "version": "23.2",
+        "type": "amogus",
+        "files": [
+            {
+                "filename": "lineage-23.2-20260831-amogus-onyx-signed.zip",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260831/lineage-23.2-20260831-amogus-onyx-signed.zip",
+                "size": 3276130494,
+                "sha256": "696efd32d2622a547c047611b6a83b44916c3dfe61dfaab99d08a888be79c734"
+            },
+            {
+                "filename": "boot.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260831/boot.img",
+                "size": 100663296,
+                "sha256": "f0153b7ccf6852870183379c8da45ddd6f565e70f6eb19cdd3bb0f564eb4e626"
+            },
+            {
+                "filename": "dtbo.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260831/dtbo.img",
+                "size": 25165824,
+                "sha256": "b6c071c1481d0870eedcaafeb7deb3fd38ec2879749c722cb22b94bd8cac93d3"
+            },
+            {
+                "filename": "init_boot.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260831/init_boot.img",
+                "size": 8388608,
+                "sha256": "164a46c18491f34dbf2edb744588757873b94399c353808c254c4a0d86e797e8"
+            },
+            {
+                "filename": "recovery.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260831/recovery.img",
+                "size": 104857600,
+                "sha256": "be4392bc7e307485394db702afad9581168ad86b7a9a3d01dc01e99aa3a14642"
+            },
+            {
+                "filename": "vendor_boot.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260831/vendor_boot.img",
+                "size": 100663296,
+                "sha256": "02ea58bda683336e58a09e8881065477fffb39fa196f351a1b5ed6ac253b31ba"
+            }
+        ]
+    }
+]
