@@ -42,5 +42,19 @@
                 "sha256": "02ea58bda683336e58a09e8881065477fffb39fa196f351a1b5ed6ac253b31ba"
             }
         ]
+    },
+    {
+        "device": "alioth",
+        "date": "20260903",
+        "version": "23.2",
+        "type": "amogus",
+        "files": [
+            {
+                "filename": "lineage-23.2-20260903-amogus-alioth-signed.zip",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20260903/lineage-23.2-20260903-amogus-alioth-signed.zip",
+                "size": 1467131242,
+                "sha256": "b819dd3b13bb2fd66410944c982b2d9382bd7e0281b51632bb6e677a65ca8408"
+            }
+        ]
     }
 ]

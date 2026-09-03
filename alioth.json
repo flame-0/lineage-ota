@@ -1,0 +1,15 @@
+[
+    {
+        "datetime": 1788396271,
+        "files": [
+            {
+                "filename": "lineage-23.2-20260903-amogus-alioth-signed.zip",
+                "sha256": "b819dd3b13bb2fd66410944c982b2d9382bd7e0281b51632bb6e677a65ca8408",
+                "size": 1467131242,
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20260903/lineage-23.2-20260903-amogus-alioth-signed.zip"
+            }
+        ],
+        "type": "amogus",
+        "version": "23.2"
+    }
+]
