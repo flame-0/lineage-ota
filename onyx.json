@@ -1,0 +1,17 @@
+[
+    {
+        "datetime": 1790049038,
+        "files": [
+            {
+                "filename": "lineage-23.2-20260922-amogus-onyx-signed.zip",
+                "sha256": "b88d0baf661677c6530c2148dbcff2a034cb67281eb44ed9b19f47cc3f15e9d6",
+                "size": 3277845456,
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260922/lineage-23.2-20260922-amogus-onyx-signed.zip",
+                "os_patch_level": "2026-09-01",
+                "os_sdk_level": 36
+            }
+        ],
+        "type": "amogus",
+        "version": "23.2"
+    }
+]

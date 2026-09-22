@@ -1,0 +1,46 @@
+[
+    {
+        "device": "onyx",
+        "date": "20260922",
+        "version": "23.2",
+        "type": "amogus",
+        "files": [
+            {
+                "filename": "lineage-23.2-20260922-amogus-onyx-signed.zip",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260922/lineage-23.2-20260922-amogus-onyx-signed.zip",
+                "size": 3277845456,
+                "sha256": "b88d0baf661677c6530c2148dbcff2a034cb67281eb44ed9b19f47cc3f15e9d6"
+            },
+            {
+                "filename": "vendor_boot.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260922/vendor_boot.img",
+                "size": 100663296,
+                "sha256": "a0244b88646a0a2ca660c6fcbff85dbc49d0c4b63a8f3590719107bf88ae8f09"
+            },
+            {
+                "filename": "recovery.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260922/recovery.img",
+                "size": 104857600,
+                "sha256": "f9ac7f8a9b1a499cf47843aa15491e481b00d1faeaddf1b5187040b9277985ac"
+            },
+            {
+                "filename": "init_boot.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260922/init_boot.img",
+                "size": 8388608,
+                "sha256": "e02eefc3f5bb9e0619720cc3636f32204c6774860be5e70c0b8c63e61be59914"
+            },
+            {
+                "filename": "dtbo.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260922/dtbo.img",
+                "size": 25165824,
+                "sha256": "62e3bcf637f2e5342e77ea99c8705d886945fa3bcea1dc7ae4e4e980ec5c1f0b"
+            },
+            {
+                "filename": "boot.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20260922/boot.img",
+                "size": 100663296,
+                "sha256": "97d19a1a6071dfad40e6697b3a6d9e3cf773950e645ba7fc47f1a8b666fedeb1"
+            }
+        ]
+    }
+]
