@@ -1,0 +1,17 @@
+[
+    {
+        "datetime": 1790181455,
+        "files": [
+            {
+                "filename": "lineage-23.2-20260923-amogus-alioth-signed.zip",
+                "sha256": "6cb81cb26bbac8f23862ea64f0044b54c582b80d1a961be343ae6bdec346de8f",
+                "size": 1468506928,
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20260923/lineage-23.2-20260923-amogus-alioth-signed.zip",
+                "os_patch_level": "2026-09-01",
+                "os_sdk_level": 36
+            }
+        ],
+        "type": "amogus",
+        "version": "23.2"
+    }
+]

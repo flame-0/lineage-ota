@@ -42,5 +42,37 @@
                 "sha256": "97d19a1a6071dfad40e6697b3a6d9e3cf773950e645ba7fc47f1a8b666fedeb1"
             }
         ]
+    },
+    {
+        "device": "alioth",
+        "date": "20260923",
+        "version": "23.2",
+        "type": "amogus",
+        "files": [
+            {
+                "filename": "lineage-23.2-20260923-amogus-alioth-signed.zip",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20260923/lineage-23.2-20260923-amogus-alioth-signed.zip",
+                "size": 1468506928,
+                "sha256": "6cb81cb26bbac8f23862ea64f0044b54c582b80d1a961be343ae6bdec346de8f"
+            },
+            {
+                "filename": "boot.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20260923/boot.img",
+                "size": 201326592,
+                "sha256": "cb9fc567918daa1fa4f0d72a06d20300ae6a1506a49a48f08385c917742975f1"
+            },
+            {
+                "filename": "dtbo.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20260923/dtbo.img",
+                "size": 33554432,
+                "sha256": "86cf9f3eda97f4f1f7d35c3b79cce608202daf83307b2c4915c99e1958e82a1a"
+            },
+            {
+                "filename": "vendor_boot.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20260923/vendor_boot.img",
+                "size": 100663296,
+                "sha256": "55e4919eec3256a60b637e83500480075ce0a02f5923eb62a28977547026a8c0"
+            }
+        ]
     }
 ]
