@@ -45,33 +45,33 @@
     },
     {
         "device": "alioth",
-        "date": "20261009",
+        "date": "20261028",
         "version": "24.0",
         "type": "amogus",
         "files": [
             {
-                "filename": "lineage-24.0-20261009-amogus-alioth-signed.zip",
-                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20261009/lineage-24.0-20261009-amogus-alioth-signed.zip",
-                "size": 1511253981,
-                "sha256": "7181d7a7d5cf590eb0f60c02ccda00d779716376db7b19b4b87ea9bb79ec8c71"
+                "filename": "lineage-24.0-20261028-amogus-alioth-signed.zip",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20261028/lineage-24.0-20261028-amogus-alioth-signed.zip",
+                "size": 1508174585,
+                "sha256": "3581d23fd2e2bffc2deb9c38e17bd925455c52ece83e5ecfe815a24099c7f79f"
             },
             {
                 "filename": "boot.img",
-                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20261009/boot.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20261028/boot.img",
                 "size": 201326592,
-                "sha256": "2ed4cc2fe1f7d150b759ea5057a2eb2b29f2db9e013ae73f2938a9fa4fb9d42e"
+                "sha256": "c761933fdcff01ee3ddd6ba05bffcaa7825c59acb3c558fefb1d96160bb38341"
             },
             {
                 "filename": "dtbo.img",
-                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20261009/dtbo.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20261028/dtbo.img",
                 "size": 33554432,
                 "sha256": "17108d3ccd4f5686b21bae085e02a31cfa02c3daa9b7fc006a4373dceb7e7924"
             },
             {
                 "filename": "vendor_boot.img",
-                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20261009/vendor_boot.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20261028/vendor_boot.img",
                 "size": 100663296,
-                "sha256": "1786a06dc025c2c5f813a141b87877ec274711a29eebaaf989ddc2542522eac9"
+                "sha256": "d45b02ff0375c1cb2472257d13818b402838733bfe8dc574bce5e4196a698c72"
             }
         ]
     }
