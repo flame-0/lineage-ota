@@ -1,12 +1,12 @@
 [
     {
-        "datetime": 1793878836,
+        "datetime": 1795338533,
         "files": [
             {
-                "filename": "lineage-24.0-20261105-amogus-onyx-signed.zip",
-                "sha256": "078436557720f47a2eda1b73cfec6a4ad19a52a20d653691c0e9ebde2e128fc8",
-                "size": 3453943037,
-                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261105/lineage-24.0-20261105-amogus-onyx-signed.zip",
+                "filename": "lineage-24.0-20261122-amogus-onyx-signed.zip",
+                "sha256": "97bf1d0674d8f62fd10a2f80bca61ee88de007f9c9708e5ada95ce5ca49c08ae",
+                "size": 3447676657,
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261122/lineage-24.0-20261122-amogus-onyx-signed.zip",
                 "os_patch_level": "2026-11-01",
                 "os_sdk_level": 37
             }

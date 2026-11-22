@@ -1,49 +1,5 @@
 [
     {
-        "device": "onyx",
-        "date": "20261105",
-        "version": "24.0",
-        "type": "amogus",
-        "files": [
-            {
-                "filename": "lineage-24.0-20261105-amogus-onyx-signed.zip",
-                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261105/lineage-24.0-20261105-amogus-onyx-signed.zip",
-                "size": 3453943037,
-                "sha256": "078436557720f47a2eda1b73cfec6a4ad19a52a20d653691c0e9ebde2e128fc8"
-            },
-            {
-                "filename": "vendor_boot.img",
-                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261105/vendor_boot.img",
-                "size": 100663296,
-                "sha256": "030ab5a31737a38fe51bdd50e25162d9936b449733dc49f361eb6abec38f2dae"
-            },
-            {
-                "filename": "recovery.img",
-                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261105/recovery.img",
-                "size": 104857600,
-                "sha256": "568f2301e44fe9428753bb37e43f0d7bacec6e737431e812af42729aa60008de"
-            },
-            {
-                "filename": "init_boot.img",
-                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261105/init_boot.img",
-                "size": 8388608,
-                "sha256": "b932e779e0eda47456ac28f1432d3901f3565303003cd768f31d158f564cc329"
-            },
-            {
-                "filename": "dtbo.img",
-                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261105/dtbo.img",
-                "size": 25165824,
-                "sha256": "2431ccec34c72f457e08c53fcda5e516abde8993a9d9d6ae65fce8884713dc3c"
-            },
-            {
-                "filename": "boot.img",
-                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261105/boot.img",
-                "size": 100663296,
-                "sha256": "c262fe3772c5358de8192c9b1e351a868aa341eb492587ac91f9b07fd843c850"
-            }
-        ]
-    },
-    {
         "device": "alioth",
         "date": "20261122",
         "version": "24.0",
@@ -72,6 +28,50 @@
                 "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20261122/vendor_boot.img",
                 "size": 100663296,
                 "sha256": "0178764ac8bf97db28d2fed85c2b53a00a98e9afba8c1768f4b370bf815bd884"
+            }
+        ]
+    },
+    {
+        "device": "onyx",
+        "date": "20261122",
+        "version": "24.0",
+        "type": "amogus",
+        "files": [
+            {
+                "filename": "lineage-24.0-20261122-amogus-onyx-signed.zip",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261122/lineage-24.0-20261122-amogus-onyx-signed.zip",
+                "size": 3447676657,
+                "sha256": "97bf1d0674d8f62fd10a2f80bca61ee88de007f9c9708e5ada95ce5ca49c08ae"
+            },
+            {
+                "filename": "vendor_boot.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261122/vendor_boot.img",
+                "size": 100663296,
+                "sha256": "273cbf9add76f85cff8bca2e5f03b5d0388b7ea837c9b18b115af9008fbbf5de"
+            },
+            {
+                "filename": "recovery.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261122/recovery.img",
+                "size": 104857600,
+                "sha256": "86e735521ecf59c2c93e33a07eb794a3a1034574623b4be1445af21e8d698679"
+            },
+            {
+                "filename": "init_boot.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261122/init_boot.img",
+                "size": 8388608,
+                "sha256": "1e35a6490d3d9037e61cebd28d28c80d483f2c6f001646385ca16cb6f157a1b6"
+            },
+            {
+                "filename": "dtbo.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261122/dtbo.img",
+                "size": 25165824,
+                "sha256": "e2edc0a2740e30586a4757fdc04f5af8bdecf984eb06520f6097eecb37214087"
+            },
+            {
+                "filename": "boot.img",
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/onyx/20261122/boot.img",
+                "size": 100663296,
+                "sha256": "9b9c133c263efd852bff4618e13f8cc0567f653cb46fc627b2743487b24cf107"
             }
         ]
     }
