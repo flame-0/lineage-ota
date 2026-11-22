@@ -1,17 +1,17 @@
 [
     {
-        "datetime": 1790181455,
+        "datetime": 1795333199,
         "files": [
             {
-                "filename": "lineage-23.2-20260923-amogus-alioth-signed.zip",
-                "sha256": "6cb81cb26bbac8f23862ea64f0044b54c582b80d1a961be343ae6bdec346de8f",
-                "size": 1468506928,
-                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20260923/lineage-23.2-20260923-amogus-alioth-signed.zip",
-                "os_patch_level": "2026-09-01",
-                "os_sdk_level": 36
+                "filename": "lineage-24.0-20261122-amogus-alioth-signed.zip",
+                "sha256": "0d1fe28a25be7f0332c5b2dd33583d186b8c6fa710132dc477cffb4b90052c7e",
+                "size": 1501953423,
+                "url": "https://downloads.sourceforge.net/project/lineage-ota/alioth/20261122/lineage-24.0-20261122-amogus-alioth-signed.zip",
+                "os_patch_level": "2026-11-01",
+                "os_sdk_level": 37
             }
         ],
         "type": "amogus",
-        "version": "23.2"
+        "version": "24.0"
     }
 ]
